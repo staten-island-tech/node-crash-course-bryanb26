@@ -1,0 +1,26 @@
+{
+  "name": "crash-course-bryanb26",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodex index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/node-crash-course-bryanb26.git"
+  },
+  "author": "Bryan Boyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/node-crash-course-bryanb26/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/node-crash-course-bryanb26#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
